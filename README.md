@@ -1,0 +1,2 @@
+# SAD
+exercício de python 
